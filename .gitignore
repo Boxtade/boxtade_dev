@@ -1,0 +1,8 @@
+
+/.gitignore
+mail.json
+config.js
+setup.json
+node_modules/
+content/data/boxtade.db
+content/images/2*
